@@ -1,0 +1,1 @@
+Este archivo de texto sirve como prueba para comprobar el manejo de archivos en Linux en desarrollado en C y de esta manera comprobar que dicho archivo de texto se pueda ordenar de manera correcta Prueba 1
